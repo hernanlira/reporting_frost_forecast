@@ -4,9 +4,9 @@
         "post0": {
             "title": "Exploratory data analysis",
             "content": "About . This notebook presents an initial analysis of data collected from Sep 4th. 2020 to May 31st 2021 in Parral regarding the Frost Forecast project. . Describe sensors and motes . Visualize signals . % of data generated each day for each sensor - also weekly and monthly . Correlation . Time series analysis .",
-            "url": "https://hernanlira.github.io/reporting_frost_forecast/jupyter/2021/06/14/eda.html",
-            "relUrl": "/jupyter/2021/06/14/eda.html",
-            "date": " • Jun 14, 2021"
+            "url": "https://hernanlira.github.io/reporting_frost_forecast/jupyter/2021/06/15/eda.html",
+            "relUrl": "/jupyter/2021/06/15/eda.html",
+            "date": " • Jun 15, 2021"
         }
         
     
